@@ -1,4 +1,4 @@
-# MATLAB Code from Numerical Experiments in Paper "Fast Multiple Rank-Constrained Matrix Approximation"
+# MATLAB Code from Numerical Experiments in Paper "*Fast Multiple Rank-Constrained Matrix Approximation*"
 
 ## Authors
 
