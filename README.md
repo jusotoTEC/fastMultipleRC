@@ -19,4 +19,4 @@ Anatoli Torokhti is an Associate Professor from the *University of South Austral
 We provide  techniques to accelerate the associated computation and avoid the above  bottleneck. The proposed approach combines a fast pseudoinverse matrix computation, based on the use of a vector tensor product, with a fast low-rank matrix approximation, based on a new extension of a method of bilateral random projections. The provided theoretical and numerical studies  demonstrate the faster performance  of the proposed method  compared to  methods based on the SVD computation. It is achieved, in particular, at the cost of "a little bit" worse associated numerical error which, in many practical cases, might be acceptable.
 
 
-<p align="center"><img width="1200" src="https://github.com/jusotoTEC/multifiltering_transform/blob/main/img/img1.png"></p>
+<p align="center"><img width="1200" src="https://github.com/jusotoTEC/fastMultipleRC/blob/main/img/img.jpg"></p>
