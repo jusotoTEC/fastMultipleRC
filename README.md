@@ -3,8 +3,8 @@
 ## Authors
 
 * Pablo Soto-Quiros (https://www.tec.ac.cr/juan-pablo-soto-quiros) - Email: jusoto@tec.ac.cr
-* Jeffry Chavarría-Molina (https://www.tec.ac.cr/jeffrey-chavarria-molina)
-* Juan José Fallas-Monge (https://www.tec.ac.cr/juan-jose-fallas-monge)
+* Jeffry Chavarría-Molina (https://www.tec.ac.cr/jeffrey-chavarria-molina) - Email: jchavarria@tec.ac.cr
+* Juan José Fallas-Monge (https://www.tec.ac.cr/juan-jose-fallas-monge) - Email: jfallas@tec.ac.cr
 * Anatoli Torokhti (https://people.unisa.edu.au/anatoli.torokhti) - Email: anatoli.torokhti@unisa.edu.au
 
 Pablo Soto-Quiros; Jeffry Chavarría-Molina and Juan José Fallas-Monge are Associate Professors from the *Instituto Tecnológico de Costa Rica* (https://www.tec.ac.cr/) in Cartago, Costa Rica
